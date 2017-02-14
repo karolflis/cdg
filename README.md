@@ -8,7 +8,7 @@ Consider you are in:
 $ pwd
 /some/very/long/dir/path/like/i/really/mean/it/this/is/gettin/insane
 ```
-If you want to go to `/some/very/long level`, now you can just type:
+If you want to go to `/some/very/long` level, now you can just type:
 ```
 $ cdg 3
 $ pwd
